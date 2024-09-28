@@ -1,2 +1,5 @@
 streamlit
 crewai
+transformers
+tensorflow-cpu tf-keras transformers
+tensorflow
