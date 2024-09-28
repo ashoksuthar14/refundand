@@ -1,5 +1,6 @@
 streamlit
 crewai
 transformers
+keras==2.13
 
 tensorflow
